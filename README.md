@@ -1,7 +1,3 @@
-Here's a concise **README** for your airline ticket booking analysis project. This format provides a clear overview, making it ideal for GitHub.
-
----
-
 # Airline Ticket Booking Analysis
 
 An SQL-based data analysis project on airline ticket bookings using PostgreSQL to gain insights into customer trends, popular destinations, revenue, and booking preferences.
